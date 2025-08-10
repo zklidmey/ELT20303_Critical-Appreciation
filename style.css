@@ -1,0 +1,70 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background: url('modernism-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: rgb(247, 245, 245);
+}
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #837563;
+}
+
+nav ul {
+  list-style: none;
+  background: #312e25;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  color: rgb(254, 254, 254);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+header {
+    background: rgba(162, 144, 144, 0.6);
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', serif;
+}
+
+p3 {
+    font-style: italic;
+}
+.content {
+    padding: 20px;
+}
+
+.section {
+    background: rgba(0, 0, 0, 0.6);
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+}
+
+.section img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background: rgba(30, 30, 30, 0.8);
+    text-align: center;
+    padding: 10px;
+}
+
+
